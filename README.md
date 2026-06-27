@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/umairahemad/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/umairahemad/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/umairahemad/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/umairahemad/leetcode-solutions/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/umairahemad/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

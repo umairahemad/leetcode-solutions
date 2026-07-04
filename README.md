@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/umairahemad/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/umairahemad/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/umairahemad/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/umairahemad/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/umairahemad/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/umairahemad/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umairahemad/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/umairahemad/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/umairahemad/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/umairahemad/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/umairahemad/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/umairahemad/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/umairahemad/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/umairahemad/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/umairahemad/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

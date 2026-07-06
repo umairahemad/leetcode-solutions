@@ -1,5 +1,7 @@
 class Solution:
     def mergeAlternately(self, word1: str1, word2: str2) -> str:
+        # revisited btw
+        # optimal solution 
         ans = []
         i = 0
         while i < len(word1) or i < len(word2):

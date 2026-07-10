@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/umairahemad/leetcode-solutions/tree/master/0415-add-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umairahemad/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/umairahemad/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/umairahemad/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |

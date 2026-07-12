@@ -2,7 +2,6 @@ class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         nums1[:] = nums1[:m] + nums2
         return nums1.sort()
-
         # in this [:] gives whole array in the output
         # [:m] this means we want elements according to m i.e 3 so it ignores those zeros
 

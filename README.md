@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umairahemad/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/umairahemad/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/umairahemad/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/umairahemad/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/umairahemad/leetcode-solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/umairahemad/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/umairahemad/leetcode-solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/umairahemad/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |

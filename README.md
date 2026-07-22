@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/umairahemad/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/umairahemad/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/umairahemad/leetcode-solutions/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/umairahemad/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/umairahemad/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/umairahemad/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/umairahemad/leetcode-solutions/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/umairahemad/leetcode-solutions/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/umairahemad/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/umairahemad/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/umairahemad/leetcode-solutions/tree/master/3110-score-of-a-string) |

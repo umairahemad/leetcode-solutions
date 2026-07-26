@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/umairahemad/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/umairahemad/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/umairahemad/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/umairahemad/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/umairahemad/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/umairahemad/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/umairahemad/leetcode-solutions/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/umairahemad/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/umairahemad/leetcode-solutions/tree/master/0178-rank-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/umairahemad/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

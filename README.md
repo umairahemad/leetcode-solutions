@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/umairahemad/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/umairahemad/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/umairahemad/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/umairahemad/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/umairahemad/leetcode-solutions/tree/master/0383-ransom-note) |
+| [1207-unique-number-of-occurrences](https://github.com/umairahemad/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/umairahemad/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window

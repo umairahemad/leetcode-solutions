@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/umairahemad/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/umairahemad/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/umairahemad/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/umairahemad/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/umairahemad/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/umairahemad/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/umairahemad/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Simulation
 |  |
 | ------- |

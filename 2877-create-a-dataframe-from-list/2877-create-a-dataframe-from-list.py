@@ -6,6 +6,3 @@ def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
         columns = ["student_id", "age"]
         
     )
-
-    
-    

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/umairahemad/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/umairahemad/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/umairahemad/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/umairahemad/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/umairahemad/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/umairahemad/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/umairahemad/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/umairahemad/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/umairahemad/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/umairahemad/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/umairahemad/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umairahemad/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/umairahemad/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/umairahemad/leetcode-solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/umairahemad/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/umairahemad/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umairahemad/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/umairahemad/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/umairahemad/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/umairahemad/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/umairahemad/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/umairahemad/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/umairahemad/leetcode-solutions/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/umairahemad/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |

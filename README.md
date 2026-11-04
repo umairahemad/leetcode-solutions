@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/umairahemad/leetcode-solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/umairahemad/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/umairahemad/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/umairahemad/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/umairahemad/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -202,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/umairahemad/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/umairahemad/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
